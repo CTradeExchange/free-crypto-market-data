@@ -51,3 +51,5 @@ Free Crypto Quote API 免费的加密货币行情API
 
 ## 其他作品
 
+- Free Quote:https://github.com/CTradeExchange/free-quote
+- Free Forex Quote API:https://github.com/CTradeExchange/free-forex-market-data
