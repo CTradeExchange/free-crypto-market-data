@@ -1,9 +1,8 @@
 # 目前支持如下code
 
 ## 目前支持如下加密货币代码，需要新增产品可直接联系<br/>
-姓名：erik wang<br/>
-邮箱：erik.wang@chixi88.com<br/>
-Telegram: https://t.me/ts_support_erik<br/>
+- Telegram: https://t.me/JustinCaspian
+- Email: cavill.yu@chixi88.com 
 
 | 类别 | name | code |
 | --- | --- | --- |
@@ -17,3 +16,4 @@ Telegram: https://t.me/ts_support_erik<br/>
 |加密货币|LINK/USDT|LINKUSDT|
 |加密货币|LTC/USDT|LTCUSDT|
 |加密货币|NEAR/USDT|NEARUSDT|
+
