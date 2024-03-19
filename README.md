@@ -1,3 +1,10 @@
+# 作者：AllTick
+# 项目名称：AllTick Real-time Quotation APIs
+# 官网：
+[https://alltick.co](https://alltick.co)
+# 本项目已经迁移至新地址，请移步到新的项目地址：
+[https://github.com/alltick/realtime-forex-crypto-stock-tick-finance-websocket-api](https://github.com/alltick/realtime-forex-crypto-stock-tick-finance-websocket-api)
+
 # Free Crypto Market Data
 Free Crypto Quote API 免费的加密货币行情API
 简单好用的免费开源加密货币行情API
