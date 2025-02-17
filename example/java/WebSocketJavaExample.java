@@ -72,7 +72,7 @@ public class WebSocketJavaExample {
 
         WebSocketContainer container = ContainerProvider.getWebSocketContainer();
 
-        URI uri = new URI("wss://quote.aatest.online/quote-b-ws-api?token=a9037628-30ae-4ffa-bd3c-9f7beaf1d44d-1688712831666"); // Replace with your websocket endpoint URL
+        URI uri = new URI("wss://quote.alltick.io/quote-b-ws-api?token=a9037628-30ae-4ffa-bd3c-9f7beaf1d44d-1688712831666"); // Replace with your websocket endpoint URL
 
         WebSocketJavaExample client = new WebSocketJavaExample();
 
